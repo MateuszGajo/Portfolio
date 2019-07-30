@@ -84,6 +84,7 @@ html {
   text-decoration: none;
   color: #80423e;
   background-color: #ff847c;
+  text-align: center;
   pointer-events: auto;
   cursor: pointer;
   transition: background-color 0.3s;
