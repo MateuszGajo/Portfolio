@@ -43,6 +43,7 @@ html {
   pointer-events: none;
   transition: 0.5s;
   flex: 0;
+  z-index:2;
 }
 
 .projects__title--primary {
